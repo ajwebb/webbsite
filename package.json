@@ -1,0 +1,22 @@
+{
+  "name": "webbsite",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fastevac"
+  ],
+  "author": "adam webb",
+  "license": "ISC",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
